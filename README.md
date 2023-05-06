@@ -9,16 +9,20 @@
 <img alt="React" src ="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black"/> 
 <img alt="Sass" src ="https://img.shields.io/badge/Sass-CC6699.svg?&style=for-the-badge&logo=Sass&logoColor=white"/> 
 
-  <br/> **✏ Study log** <br/> <br/>
+  <br/> **✏ Study Log** <br/> <br/>
   </a> <a href = " https://y-circle.tistory.com/"> <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-333333.svg?&style=for-the-badge"/></a>
 
 <!-- 
-  <br/> **✏ studying** <br/> <br/>
+  <br/> **✏ studying** <br/>
   <img alt="React" src ="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black"/> 
   <img alt="TypeScript" src ="https://img.shields.io/badge/typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>  
 -->
 
-![CircleYoo's github stats](https://github-readme-stats.vercel.app/api?username=CircleYoo&show_icons=true)
+<br/> **⚙ Github Stats** <br/>
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CircleYoo&show_icons=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CircleYoo&layout=compact">
+</p>
 
 
 <!--
