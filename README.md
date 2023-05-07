@@ -10,7 +10,7 @@
 <img alt="Sass" src ="https://img.shields.io/badge/Sass-CC6699.svg?&style=for-the-badge&logo=Sass&logoColor=white"/> 
 
   <br/> **✏ Study Log** <br/> <br/>
-  </a> <a href = " https://y-circle.tistory.com/"> <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-333333.svg?&style=for-the-badge"/></a>
+  </a> <a href = "https://y-circle.tistory.com/"> <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-333333.svg?&style=for-the-badge"/></a>
 
 <!-- 
   <br/> **✏ studying** <br/>
