@@ -1,6 +1,13 @@
+<div align="right">
+ 
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCircleYoo%2Fhit-counter&count_bg=%2374C6ED&title_bg=%23555555&icon=&icon_color=%23555555&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+ 
+</div>
+ 
 ## HEY! 👋 <br> 
-**I'm JeongWon! I hope you have a lovely day🍀** <br/><br/> 
-
+ **I'm JeongWon! I hope you have a lovely day🍀**
+ 
+<br/>
 
 ### ⚡Skills
 **Platforms & Languages** <br/> <br/>
