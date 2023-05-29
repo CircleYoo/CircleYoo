@@ -1,4 +1,4 @@
-## HEY! 👋 <br> 
+## HEY! 🙌 <br> 
  **I'm JeongWon! I hope you have a lovely day🍀**  <br/><br/>
 
 ### ⚡Skills
