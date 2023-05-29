@@ -17,8 +17,9 @@
 <img alt="Adobe Photoshop" src ="https://img.shields.io/badge/Adobe Photoshop-31A8FF.svg?&style=for-the-badge&logo=Adobe Photoshop&logoColor=white"/> 
 
 
-<!--  <br/> **✏ Study Log** <br/> <br/> -->
+
 ***
+**✏ Links** <br/> <br/>
 <a href = "https://y-circle.tistory.com/" target="blank"> 
  <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-333333.svg?&style=for-the-badge"/>
 </a>
