@@ -16,7 +16,7 @@
 <img alt="Figma" src ="https://img.shields.io/badge/Figma-5551FF.svg?&style=for-the-badge&logo=Figma&logoColor=white"/> 
 <img alt="Adobe Photoshop" src ="https://img.shields.io/badge/Adobe Photoshop-31A8FF.svg?&style=for-the-badge&logo=Adobe Photoshop&logoColor=white"/> 
 
-***
+## 
 ### 🔎 Links
 <a href = "https://y-circle.tistory.com/" target="blank"> 
  <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-333333.svg?&style=for-the-badge"/>
