@@ -1,7 +1,7 @@
 ## HEY! 🙌 <br> 
  **I'm JeongWon! I hope you have a lovely day🍀**  <br/><br/>
 
-### ⚡Skills
+### ⚙ Skills
 **Platforms & Languages** <br/> <br/>
 <img alt="Html" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> 
 <img alt="Css" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> 
@@ -19,7 +19,7 @@
 
 
 ***
-**✏ Links** <br/> <br/>
+### 🔎 Links
 <a href = "https://y-circle.tistory.com/" target="blank"> 
  <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-333333.svg?&style=for-the-badge"/>
 </a>
