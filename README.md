@@ -17,14 +17,14 @@
 <img alt="Adobe Photoshop" src ="https://img.shields.io/badge/Adobe Photoshop-31A8FF.svg?&style=for-the-badge&logo=Adobe Photoshop&logoColor=white"/> 
 
 
- <br/> **✏ Study Log** <br/> <br/>
- </a> <a href = "https://y-circle.tistory.com/" target="blank"> <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-333333.svg?&style=for-the-badge"/></a>
-
-<!-- 
-  <br/> **✏ studying** <br/>
-  <img alt="React" src ="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black"/> 
-  <img alt="TypeScript" src ="https://img.shields.io/badge/typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>  
--->
+<!--  <br/> **✏ Study Log** <br/> <br/> -->
+***
+<a href = "https://y-circle.tistory.com/" target="blank"> 
+ <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-333333.svg?&style=for-the-badge"/>
+</a>
+<a href = "https://coral-munchkin-d9f.notion.site/JeongWon-Yoo-47df668e52b24b26859bbc63c59bf892" target="blank">
+ <img alt="Portfolio" src ="https://img.shields.io/badge/Portfolio-333333.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>
+</a>
 
 <br/> **⚙ Github Stats** <br/>
 <p>
@@ -32,8 +32,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CircleYoo&layout=compact">
 </p>
 
+<!-- 방문자 수 -->
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCircleYoo%2Fhit-counter&count_bg=%2374C6ED&title_bg=%23555555&icon=&icon_color=%23555555&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
+<!-- 
+  <br/> **✏ studying** <br/>
+  <img alt="React" src ="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black"/> 
+  <img alt="TypeScript" src ="https://img.shields.io/badge/typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>  
+-->
 
 <!--
 **CircleYoo/CircleYoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
