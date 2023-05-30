@@ -22,7 +22,7 @@
  <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-333333.svg?&style=for-the-badge"/>
 </a>
 <a href = "https://coral-munchkin-d9f.notion.site/JeongWon-Yoo-47df668e52b24b26859bbc63c59bf892" target="blank">
- <img alt="Portfolio" src ="https://img.shields.io/badge/Portfolio-74C6ED.svg?&style=for-the-badge&logo=Notion&logoColor=black"/>
+ <img alt="Portfolio" src ="https://img.shields.io/badge/Portfolio-92D6F7.svg?&style=for-the-badge&logo=Notion&logoColor=black"/>
 </a>
 
 <br/> **⚙ Github Stats** <br/>
