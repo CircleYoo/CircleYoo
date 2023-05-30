@@ -27,7 +27,7 @@
 
 <br/> **⚙ Github Stats** <br/>
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CircleYoo&show_icons=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CircleYoo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CircleYoo&layout=compact">
 </p>
 
