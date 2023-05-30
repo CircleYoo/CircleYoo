@@ -1,5 +1,5 @@
 ## HEY! 🙌 <br> 
- **I'm JeongWon! I hope you have a lovely day🍀**  <br/><br/>
+ **I'm JeongWon! I hope you have a lovely day**  <br/><br/>
 
 ### 💻 Skills
 **Platforms & Languages** <br/><br/>
