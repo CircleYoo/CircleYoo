@@ -22,7 +22,7 @@
  <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-333333.svg?&style=for-the-badge"/>
 </a>
 <a href = "https://coral-munchkin-d9f.notion.site/JeongWon-Yoo-47df668e52b24b26859bbc63c59bf892" target="blank">
- <img alt="Portfolio" src ="https://img.shields.io/badge/Portfolio-333333.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>
+ <img alt="Portfolio" src ="https://img.shields.io/badge/Portfolio-74C6ED.svg?&style=for-the-badge&logo=Notion&logoColor=black"/>
 </a>
 
 <br/> **⚙ Github Stats** <br/>
@@ -32,7 +32,7 @@
 </p>
 
 <!-- 방문자 수 -->
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCircleYoo%2Fhit-counter&count_bg=%2374C6ED&title_bg=%23555555&icon=&icon_color=%23555555&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCircleYoo%2Fhit-counter&count_bg=%2374C6ED&title_bg=%23333333&icon=&icon_color=%23333333&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 <!-- 
   <br/> **✏ studying** <br/>
