@@ -25,11 +25,11 @@
  <img alt="Portfolio" src ="https://img.shields.io/badge/Portfolio-92D6F7.svg?&style=for-the-badge&logo=Notion&logoColor=black"/>
 </a>
 
-<br/> **⚙ Github Stats** <br/>
+<!-- <br/> **⚙ Github Stats** <br/>
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CircleYoo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CircleYoo&layout=compact">
-</p>
+</p> -->
 
 <!-- 방문자 수 -->
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCircleYoo%2Fhit-counter&count_bg=%2374C6ED&title_bg=%23333333&icon=&icon_color=%23333333&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
