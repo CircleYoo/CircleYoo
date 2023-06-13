@@ -12,10 +12,9 @@
 **Tools** <br/><br/>
 <img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/> 
 <img alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"/> 
-<img alt="Postman" src ="https://img.shields.io/badge/Postman-FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=white"/> 
 <img alt="Figma" src ="https://img.shields.io/badge/Figma-5551FF.svg?&style=for-the-badge&logo=Figma&logoColor=white"/> 
 <img alt="Adobe Photoshop" src ="https://img.shields.io/badge/Adobe Photoshop-31A8FF.svg?&style=for-the-badge&logo=Adobe Photoshop&logoColor=white"/> 
-
+<!-- <img alt="Postman" src ="https://img.shields.io/badge/Postman-FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=white"/>  -->
 ## 
 ### 🔎 Links
 <a href = "https://y-circle.tistory.com/" target="blank"> 
