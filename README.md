@@ -8,6 +8,7 @@
 <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/> 
 <img alt="React" src ="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black"/> 
 <img alt="Sass" src ="https://img.shields.io/badge/Sass-CC6699.svg?&style=for-the-badge&logo=Sass&logoColor=white"/> 
+<img alt="Tailwind" src ="https://img.shields.io/badge/Tailwind-06B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white"/> 
 
 **Tools** <br/><br/>
 <img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/> 
